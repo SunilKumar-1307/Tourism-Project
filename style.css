@@ -7,3 +7,10 @@
     width: 300px;
     background-size: cover;
 }
+.places-main-container{
+    background-image: url(https://ik.imagekit.io/51ox5sjut/Assests/taj-mahal.webp?updatedAt=1750937574413) ;
+    height: 626px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
